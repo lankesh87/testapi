@@ -1,4 +1,46 @@
 {
+  "categories": [
+    {
+      "title": "Fruits",
+      "imageUrl": "https://sifu.unileversolutions.com/image/en-PK/original/1/sugar-500g-pouch-50397981.jpg",
+      
+    },
+    {
+      "title": "Vegetables",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Utensils",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Kitchen",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Home Decor",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Foodgrains, Oil & Masala",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Home Decor",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    },
+    {
+      "title": "Foodgrains, Oil & Masala",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2036/9479/products/RedEyeCoffeeSalt_01bc6b7e-bac2-46fb-b9e4-71e05b092f1c_grande.jpg?v=1553957391",
+      
+    }
+  ],
   "products": [
     {
       "title": "Sugar",
